@@ -1,0 +1,6 @@
+2021-05-23 12:32:32,931 *** Reading files
+2021-05-23 12:32:32,931 *** Files read
+2021-05-23 12:32:32,990 *** Populating MongoDB
+2021-05-23 12:32:43,490 *** MongoDB populated, making calculations
+2021-05-23 12:32:43,498 *** Calculated. Creating result file
+2021-05-23 12:32:43,506 *** File created
